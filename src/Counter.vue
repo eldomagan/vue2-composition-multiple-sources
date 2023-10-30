@@ -1,5 +1,5 @@
 <script>
-const { defineComponent, ref } = require('vue');
+import {defineComponent, ref} from 'vue';
 
 export default defineComponent({
   setup() {
